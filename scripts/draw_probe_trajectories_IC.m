@@ -14,7 +14,7 @@ parentdir = '(parent directory path)';
 
 % inferior colliculus recordings 
 m = 1; 
-mouse = []; date = []; site = []; target_ch = []; condition = [];
+mouse = []; date = []; site = []; 
 
 mouse{m} = '(mouse1)'; date{m} = '(date1)'; site{m} = '(site1)'; m = m+1;
 mouse{m} = '(mouse2)'; date{m} = '(date2)'; site{m} = '(site2)'; m = m+1;
